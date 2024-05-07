@@ -1,0 +1,24 @@
+.logo{
+    width: 100px;
+    height: 20px;
+}
+.data-container{
+    width: 100%;
+}
+.sidebar1{
+    width: 15%;
+}
+.new-btn{
+    margin-right: 50px;
+}
+.new{
+    margin-left: 20px;
+}
+@media only screen and (max-width: 600px) {
+.sidebar {
+        width: 10%;
+    }
+    .data-container{
+
+    }
+}

@@ -1,0 +1,26 @@
+.home-img{
+    width: 80%;
+    height: 80%;
+}
+.logo{
+    width: 5%;
+    height: 100%;
+    margin-right: 10px;
+}
+.btn1{
+    width: 50%;
+    margin-right: 5%;
+}
+@media only screen and (max-width: 800px) {
+    .home-img {
+            width: 40%;
+            height: 40%;
+            margin-top: 30%;
+        }
+        .data{
+         margin-top: -200px;
+        }
+        .cards{
+            display: block;
+        }
+    }
